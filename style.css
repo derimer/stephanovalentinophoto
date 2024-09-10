@@ -1,0 +1,802 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Avenir, sans-serif;
+    box-sizing: border-box;
+}
+#indexHeader{
+    background-image: url(./image/carrierecolor.jpg);
+    color:orange;
+}
+
+
+nav ul {
+    display: flex;
+    flex-flow: nowrap;
+    list-style-type: none;
+    margin-top: 100px;;
+    color:orange;
+}
+
+nav li {
+    flex: 1 1 auto;
+    text-align: center;
+
+
+}
+
+nav a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid transparent;
+    margin: 20px;
+
+}
+
+nav a:hover {
+    color: orange;
+    border-bottom: 2px solid gold;
+}
+.corps{
+    background-color: black;
+   
+}
+.presentation{
+    color:orange;
+}
+.propos a{
+    color:white;
+}
+.border {
+    height: 150px;
+    border-top: 6px solid orange;
+    border-bottom: 6px solid #fdb347;
+    background-color: #0a0a23;
+    
+   
+}
+    .propos1 #face  img{
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+
+    }
+    img#face{
+        border-radius: 50%;
+    }
+    
+.titles{
+   
+    color: #fff;
+    text-align: center;
+}
+/*.h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-shadow: 3px 3px 1px orange;
+   
+}*/
+
+#propos1{
+    display:flex;
+    justify-content: center;;
+    align-items: center;
+    flex-direction: column;
+    background-color: #999;
+}
+#page2{
+    background-color: black;
+}
+#main1{
+    color:orange;
+    text-align: center;
+}
+#main2{
+    background-color: black;
+}
+.rang {
+    position: absolute;
+    top: 50px;
+    left: 650px;
+}
+#big {
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./image/moissac.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#big ul a{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:orange;
+    text-decoration: none;
+    font-size: larger;
+    font-weight:bold;
+    gap:100px;
+   
+}
+#charmecouleur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./image/stephanie.jpg);
+    height: 100vh;;
+    font-size:100px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit:scale-down;
+    
+}
+#charmecouleur span{
+    text-decoration: none;
+}
+.ruby {
+   
+
+    border: 50px solid white;
+}
+
+.insta {
+    color: orange;
+    text-transform: capitalize;
+}
+
+.sp {
+    position: absolute;
+    bottom: 150px;
+    left: 970px;
+}
+
+.w {
+    position: absolute;
+    bottom: -250px;
+    left: -650px;
+    color: white;
+}
+
+.wa {
+    position: absolute;
+    bottom: -270px;
+    left: -650px;
+    color: white;
+}
+
+
+.bg{
+    background-color: #0a0a23;
+    text-align: center;
+}
+
+.bg h1{
+    color:white;
+    width: 100px;
+    margin-right:250px;
+    font-size: small;
+}
+
+.bil {
+    
+    
+    height: 80px;
+    text-transform: uppercase;
+    
+    text-shadow: 7px 7px 2px black;
+
+}
+
+
+
+.cooli {
+    position: absolute;
+    top: 1300px;
+    left: 1150px;
+    width: 320px;
+    height: 60px;
+    text-transform: uppercase;
+    font-size: 5.0rem;
+    text-decoration: none;
+
+}
+
+.coulone {
+    position: relative;
+    bottom: 20px;
+    color: transparent;
+
+}
+
+
+
+
+
+
+.text {
+    text-align: center;
+    color: white;
+}
+
+.ul {
+    text-shadow: #999;
+}
+
+
+
+.atout1 {
+    color: white;
+    background-color: grey;
+    height: 50px;
+    text-decoration-color: red;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+
+.adress {
+    color: black;
+    text-align: center;
+}
+
+.bandeau {
+    height: max-content;
+}
+
+.image3 {
+    width: 700px;
+    height: 700px;
+}
+
+.image2.php {
+    color: white;
+    width: 20px;
+}
+
+.paysages{
+    background-color: #0a0a23;
+    color:white;
+   width: auto;
+}
+
+.menue{
+    background-image: url(./image/ac.jpg);
+    height: 100vh;
+    
+}
+.bl{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+        padding-top:300px;   
+
+  font-size: xx-large;
+  color: orange;
+}
+.menue a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.cen {
+    position: relative;
+    left: 100px;
+}
+
+.code {
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    color: white;
+}
+
+.p {
+    font-style: italic;
+
+}
+
+
+
+
+.contact {
+    background-image: url("./image/sortie.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+   height: 100%;
+    display:flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+    color:orange;
+    text-align: center;
+
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contact p{
+    text-decoration: none;
+    color: orange;
+}
+.contact h1{
+    font-size:medium;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    border-radius: 2px;
+   
+    box-shadow: 0 0 15px;
+    font-size: 14px;
+    font-weight: bold;
+   
+    
+  
+}
+   
+
+.description {
+    width: 50%;
+    float: left;
+}
+
+.white {
+    color: white;
+}
+
+span {
+    color: white;
+
+}
+
+
+
+@keyframes taille {
+    from {
+        width: 100%;
+    }
+
+    50% {
+        width: 50%;
+    }
+
+    to {
+        width: 25%;
+    }
+}
+
+.d1,
+.d2,
+.d3,
+.da,
+.db {
+    width: 100%;
+    animation-name: taille;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: initial;
+}
+
+.d1 {
+    animation-direction: reverse;
+}
+
+.d2 {
+    animation-direction: alternate;
+}
+
+.d3 {
+    animation-direction: alternate-reverse;
+}
+
+.da {
+    animation-direction: reverse;
+}
+
+.db {
+    animation-direction: alternate;
+}
+
+@keyframes taille {
+    from {
+        width: 100%;
+    }
+
+    50% {
+        width: 50%;
+    }
+
+    to {
+        width: 25%;
+    }
+}
+
+.d4,
+.d5,
+.d6,
+.d7,
+.d8,
+.d9,
+.d11,
+.d12 {
+    width: 100%;
+    animation-name: taille;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: initial;
+}
+
+.d4 {
+    animation-direction: reverse;
+}
+
+.d5 {
+    animation-direction: alternate;
+}
+
+.d6 {
+    animation-direction: alternate-reverse;
+}
+
+.d7 {
+    animation-direction: reverse;
+}
+
+.d8 {
+    animation-direction: alternate;
+}
+
+.d9 {
+    animation-direction: alternate-reverse;
+}
+
+.d10 {
+    animation-direction: reverse;
+}
+
+.d11 {
+    animation-direction: alternate;
+}
+
+.d12 {
+    animation-direction: alternate-reverse;
+}
+
+@keyframes taille {
+    from {
+        width: 100%;
+    }
+
+    50% {
+        width: 50%;
+    }
+
+    to {
+        width: 25%;
+    }
+}
+
+.steph {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-size: 150%;
+}
+
+.dj,
+.dh,
+.di,
+.dg,
+.dk,
+.de,
+.dz,
+.dy {
+    width: 100%;
+    animation-name: taille;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: initial;
+}
+
+.de {
+    animation-direction: reverse;
+}
+
+.dz {
+    animation-direction: alternate-reverse;
+}
+
+.dy {
+    animation-direction: alternate;
+}
+
+.dh {
+    animation-direction: alternate;
+}
+
+.di {
+    animation-direction: alternate-reverse;
+}
+
+.dg {
+    animation-direction: reverse;
+}
+
+.dk {
+    animation-direction: alternate-reverse;
+}
+
+@keyframes taille {
+    from {
+        width: 100%;
+    }
+
+    50% {
+        width: 50%;
+    }
+
+    to {
+        width: 25%;
+    }
+}
+
+.steph {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.img {
+    border: 10px solid white;
+   
+}
+
+.conclusion {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Geneva, Verdana, sans-serif, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    color: black;
+    border: solid 1px;
+    margin: auto auto;
+    width: 800px;
+    height: 400px;
+    background-color: #999;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 20%;
+
+
+
+
+
+
+}
+
+.sign {
+    color: white;
+    text-align: center;
+}
+
+
+
+.gallerie img {
+    width: 100%;
+    max-width: 800px;
+    height: 800px;
+    border: 10px solid white;
+}
+
+
+
+.header {
+    
+    
+    background-color: #0a0a23;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+    text-align: center;
+}
+
+.gallerie {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 20px 10px;
+    object-fit: cover;
+    gap: 20px;
+    background-color: #1a0b0b;
+
+}
+
+.gallerie::after {
+    content: "";
+    width: 600px;
+}
+
+.dp,
+.dq,
+.dr,
+.ds,
+.dt,
+.du,
+.dv,
+.dw {
+    border: 15px solid white;
+}
+
+.sign {
+    text-align: right;
+    font-size: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+.gallerie img {
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.gallerie::after {
+    content: "";
+    width: 800px;
+}
+
+.aa,
+.ab,
+.ac,
+.ad {
+    width: 100%;
+    animation-name: taille;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: initial;
+}
+
+.aa {
+    animation-direction: reverse;
+}
+
+.ab {
+    animation-direction: alternate;
+}
+
+.ac {
+    animation-direction: alternate-reverse;
+}
+
+.ad {
+    animation-direction: reverse;
+}
+
+.field {
+    width: 1500px;
+    margin: auto;
+    width: auto;
+    text-align: center;
+}
+
+.box {
+    position: absolute;
+    bottom: 150px;
+    left: 200px;
+    width: 600px;
+    margin: 20px auto;
+    padding-top: 200px;
+    font-family: serif;
+
+}
+
+.blanc {
+    color: gray;
+}
+
+
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+input {
+    width: 100%;
+    height: 35px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+input[type=submit] {
+    background-color: #ca1e1e;
+    border: 1px solid white;
+    font-family: serif;
+    font-Weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+textarea {
+    width: 100%;
+    height: 80px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    resize: none;
+}
+
+span {
+    color: red
+}
+
+.successMessage {
+    background-color: #7acc7d;
+    border: #2b5a2d 1px solid;
+    padding: 5px 9px;
+    color: #262b26;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.errorMessage {
+    background-color: #e64141;
+    border: #da1414 1px solid;
+    padding: 5px 10px;
+    color: #fdf7f7;
+    border-radius: 4px;
+}
+
+.info {
+    font-size: 0.9em;
+    color: #d67262;
+    letter-spacing: 2px;
+    padding-left: 5px;
+}
+
+.cont {
+    position: absolute;
+    bottom: 20px;
+    left: 250px;
+    width: 600px;
+    margin: 20px auto;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.ko {
+    background-color: black;
+}
+
+.qui {
+    color: white;
+}
+
+.color {
+    color: white;
+    background-color: gray;
+}
+@media(max-width:445px){
+   
+    }
