@@ -10,11 +10,22 @@
       
     <body class="contact">
     <h1 class="h1">STEPHANOVALENTINOPHOTO</h1>    
- <h2><?php
-  $title ="contact";
-  include 'menu.php';
-  ?></h2><br>
-    
+ 
+   
+    <nav>
+    <ul>
+        
+        <li><a href="index.php"><strong>ACCUEIL</strong></a></li>
+        <li><a href="page2.php"><strong>COULEUR</strong></a></li>
+        <li><a href="image2.php"><strong>N&B</strong></a></li>
+        <li><a href="portrait.php"><strong>PORTRAIT</strong></a></li>
+        <li><a href="paysage.php"><strong>PAYSAGE</strong></a></li>
+        <li><a href="charme.php"><strong>CHARME</strong></a></li>
+        <li><a href="contact.php"><strong>CONTACT</strong></a></li> 
+        
+</ul>
+
+</nav>
 
 <?php
 // S'il y des données de postées

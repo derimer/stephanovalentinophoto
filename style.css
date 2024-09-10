@@ -50,11 +50,13 @@ nav a:hover {
 }
 .border {
     height: 150px;
-    border-top: 6px solid orange;
-    border-bottom: 6px solid #fdb347;
+    border-top: 2px solid orange;
+    border-bottom: 2px solid #fdb347;
     background-color: #0a0a23;
-    
-   
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
 }
     .propos1 #face  img{
         width: 300px;
@@ -79,7 +81,10 @@ nav a:hover {
     text-shadow: 3px 3px 1px orange;
    
 }*/
-
+#liens{
+    text-decoration: none;
+    color: orange;
+}
 #propos1{
     display:flex;
     justify-content: center;;
