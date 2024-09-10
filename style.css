@@ -643,7 +643,7 @@ span {
 }
 
 .sign {
-    text-align: right;
+   text-align: center;
     font-size: 50px;
 
 }
@@ -805,5 +805,23 @@ span {
     background-color: gray;
 }
 @media(max-width:445px){
+   .paysages h1{
+    
+    font-size: small;
+   }
+   .border{
+    height:300px;
+   }
+   .border a{
+    font-size: small;
+    font-weight: 200;
    
-    }
+   }
+   .border ul {
+  
+   flex-wrap: wrap;
+   text-align: center;
+  
+   }
+   }
+   

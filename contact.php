@@ -12,7 +12,7 @@
     <h1 class="h1">STEPHANOVALENTINOPHOTO</h1>    
  
    
-    <nav>
+    <nav class="border">
     <ul>
         
         <li><a href="index.php"><strong>ACCUEIL</strong></a></li>
