@@ -7,7 +7,7 @@
         <title>Document</title>
 </head>
 <body>
-<nav>
+<nav class="border">
     <ul>
         
         <li><a href="index.php"><strong>ACCUEIL</strong></a></li>

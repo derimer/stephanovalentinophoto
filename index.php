@@ -16,7 +16,7 @@
     <header id="indexHeader">
 
       <h1>STEPHANOVALENTINOPHOTO<button id="btn">Utilisateur</button></h1>
-<nav>
+<nav class="border">
      
         <ul>
           <li>ACCUEIL</li>

@@ -8,7 +8,7 @@
     </head>
     <body class="bg">
     <center><h1 class="h1">STEPHANOVALENTINOPHOTO</h1></center> 
-    <nav>
+    <nav class="border">
     <ul>
         
         <li><a href="index.php"><strong>ACCUEIL</strong></a></li>

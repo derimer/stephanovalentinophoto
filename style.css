@@ -273,6 +273,8 @@ nav a:hover {
 .menue{
     background-image: url(./image/ac.jpg);
     height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .bl{

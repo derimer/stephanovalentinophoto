@@ -17,7 +17,7 @@
 
       <body id="page2">
         
-      <nav>
+      <nav class="border">
     <ul>
         
         <li><a href="index.php"><strong>ACCUEIL</strong></a></li>
