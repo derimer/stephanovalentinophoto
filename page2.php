@@ -48,7 +48,7 @@
       <h2> LA PAUSE </h2>
       <img class="img d5" src="./image/tasses a cafe.jpg">
       <h2>FONTAINE</h2> 
-      ><img class="img d6"srcset="./image/fontaine.jpg">   
+      <img class="img d6"srcset="./image/fontaine.jpg">   
       <h2>LE PRINTEMPS</h2> 
       ><img class="img d11"srcset="./image/fleur.11.03.2021.montoulon.jpg">  
       <h2>SALON DE COIFFURE</h2>
