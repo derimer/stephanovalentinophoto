@@ -15,7 +15,7 @@
     
     <header id="indexHeader">
 
-      <h1>STEPHANOVALENTINOPHOTO<button id="btn">Utilisateur</button></h1>
+      <h1>STEPHANOVALENTINOPHOTO</h1>
 <nav class="border">
      
         <ul>
