@@ -82,20 +82,7 @@
       myButton.addEventListener("click", function () {
         setUserName();
       });
-      /*function setUserName() {
-        let myName = prompt("Veuillez saisir votre prenom.");
-        localStorage.setItem("prenom", myName);
-        myHeading.textContent = "Bonjour, " + myName;
-      }
-      if (!localStorage.setItem("prenom","nom")) {
-        setUserName();
-      } else {
-        let storedName = localStorage.getItem("prenom");
-        myHeading.textContent = "bonjour " + storedName;
-      }
-      myButton.addEventListener("click", function () {
-        setUserName();
-      });*/
+      
 
     </script>
   </body>
