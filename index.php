@@ -77,11 +77,6 @@
         }
       });
              
-      let myButton = document.querySelector("button");
-      let myHeading = document.querySelector("h1");
-      myButton.addEventListener("click", function () {
-        setUserName();
-      });
       
 
     </script>
