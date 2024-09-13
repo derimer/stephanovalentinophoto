@@ -29,31 +29,22 @@
 </nav>
  <main id="main2">
 <h1 class="h1">STEPHANOVALENTINOPHOTO</h1>
-  <h1 class="h1"> Le noir & blanc et l'infini...</h1>
-     
-<img class="img ad" src="./image/mer.jpg"><br>
- 
+  <h1 class="h1"> Le noir & blanc et l'infini...</h1>     
+<img class="img ad" src="./image/mer.jpg"> 
 <p class="white">LA NUANCE DE GRIS CRAIT UN EFFET MIROIR</p>
 <img class="img ab" src="./image/cuisine.bagnols copie 2.jpg">
-<p class="white">Le gerbier</p>
-     
-<img class="img ac" src="./image/_P2Q2396.gerbier.15.03.2018.NB.jpg"><br>
-
-<br><center><p class="white">LE METRO</p></center>
-<img class="img dz gallerie" srcset="./image/metro.jpg" alt="photoz"width="1800px"height="800px">                         
-         
-     
-   
-<p class="white">TOUTE LA COMPLEXITE EST DANS LA LUMIERE</p>
-     <img class="img d3"src="./image/_P2Q2091.pecheur.crete.2017 site.jpg">
-    <br>              
-     <p class="white">LA COIFFEUSE</p>
-     <img class="img ac"src="./image/DP1M8039.coifeuse copie 2.jpg">
-   <br>
-   <p class="white">LA SYMETRIE</p>
-   <img class="img ad"src="./image/fauteuils.jpg">
-   <p class="white">LES REGARDS</p>
-   <img class="img ad"src="./image/DP2Q6537.cedrik.virginie copie 3.jpg">
+<p class="white">Le gerbier</p>     
+<img class="img ac" src="./image/_P2Q2396.gerbier.15.03.2018.NB.jpg">
+<p class="white">LE METRO</p>
+<img class="img dz gallerie" src="./image/metro.jpg" alt="photoz">       
+ <p class="white">TOUTE LA COMPLEXITE EST DANS LA LUMIERE</p>
+ <img class="img d3"src="./image/_P2Q2091.pecheur.crete.2017 site.jpg">                 
+ <p class="white">LA COIFFEUSE</p>
+  <img class="img ac"src="./image/DP1M8039.coifeuse copie 2.jpg">
+  <p class="white">LA SYMETRIE</p>
+ <img class="img ad"src="./image/fauteuils.jpg">
+ <p class="white">LES REGARDS</p>
+ <img class="img ad"src="./image/DP2Q6537.cedrik.virginie copie 3.jpg">
 
 </main>              
 </body>

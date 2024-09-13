@@ -27,7 +27,7 @@
     <div class="paysages">
 <h1 class="h1">STEPHANOVALENTINOPHOTO</h1> 
 <h1 class="h1 header">LES PAYSAGES</h1>
-    <div onclick="changeClass" class="gallerie">
+    <div class="gallerie">
  
 <a href="./image/grau.du.roi.01.2021.jpg"><img class="img gallerie"src="./image/grau.du.roi.01.2021.jpg"alt="image1.jpg"><a href="./image/lebleu.jpg"><img class="img  gallerie" srcset="./image/lebleu.jpg"alt="image2.jpg">
 <a href="./image/lac.02.2020.grane.jpg"><img class="img  gallerie"src="./image/lac.02.2020.grane.jpg"alt="image3.jpg"><a href="./image/hotel.jpg"><img class="img  gallerie"srcset="./image/hotel.jpg"alt="image4.jpg">
@@ -37,16 +37,7 @@
 <a href="./image/parc.jpg"><img class="img gallerie"src="./image/parc.jpg"><a href="./image/DP0Q4413.bretagne_HDR.jpg"><img class="img gallerie"src="./image/DP0Q4413.bretagne_HDR.jpg"><a href="./image/eoliennes.jpg"><img class="img gallerie"src="./image/eoliennes.jpg">
 </div>
 </div>
-<script>
-    function changeClass(element){
-        const currentClass = element.class;
-        if(currentClass=="gallerie"){
-            element.class="./image";
-        }else{
-            element.class="gallerie";
-        }
-    }
-</script>
+
 
     
 </body>

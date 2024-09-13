@@ -39,10 +39,9 @@
       <main id="main1">
 
       <h1>ET LES COULEURS...</h1>
-      <img class="img d8"srcset="./image/roses.jpg"><br><br>
+      <img class="img d8"srcset="./image/roses.jpg">
       <h2>SON ET LUMIERE ORANGE 2023</h2>
-      <img class="img d12"src="./image/lumiere et son orange 2023.jpg">
-      <br><br><br>
+      <img class="img d12"src="./image/lumiere et son orange 2023.jpg">      
       <h2>MISS</h2> 
       <img class="img d8"src="./image/STEF7977_1.jpg">
       <h2> LA PAUSE </h2>
@@ -50,19 +49,16 @@
       <h2>FONTAINE</h2> 
       <img class="img d6"src="./image/fontaine.jpg">   
       <h2>LE PRINTEMPS</h2> 
-      ><img class="img d11"src="./image/fleur.11.03.2021.montoulon.jpg">  
+      <img class="img d11"src="./image/fleur.11.03.2021.montoulon.jpg">  
       <h2>SALON DE COIFFURE</h2>
    <img class="img d7"srcset="./image/salon.jpg">
    <h2>PERSPECTIVE</h2>
       <img class="img d8" src="./image/batiment.jpg">
       <h2>GALLERIE</h2>
-      <img class="img d8" src="./image/GALERIE.jpg"><br><br><br><br>
-      
-      <h2>LES PORTES</h2>
-      <img class="img d11" src="./image/porte.nimes.2021 copie.jpg"><br><br>
-
-      
-      <h2>COLONNES</h2>
+      <img class="img d8" src="./image/GALERIE.jpg">
+            <h2>LES PORTES</h2>
+      <img class="img d11" src="./image/porte.nimes.2021 copie.jpg">
+           <h2>COLONNES</h2>
       <img class="img d10"src="./image/colonnes.jpg">
       <h2>URBAN SOUL</h2>
       <img class="img d11"src="./image/urban soul.jpg">
